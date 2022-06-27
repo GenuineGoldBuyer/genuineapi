@@ -1206,4 +1206,4 @@ export const products = [
     img: ['gold_cuban_link_1.png','gold_cuban_link_2.png','gold_cuban_link_3.png','gold_cuban_link_4.png']
   },
 ]
-export default items;
+export default products;
