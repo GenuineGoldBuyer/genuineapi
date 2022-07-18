@@ -7,20 +7,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -32,20 +36,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -57,20 +65,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -82,20 +94,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -107,20 +123,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -132,20 +152,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -157,20 +181,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -182,20 +210,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -207,20 +239,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -232,20 +268,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -257,20 +297,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -282,20 +326,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -307,20 +355,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -332,20 +384,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -357,20 +413,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -388,20 +448,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -413,20 +477,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -438,20 +506,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -463,20 +535,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -488,20 +564,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -513,20 +593,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -538,20 +622,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -563,20 +651,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -588,20 +680,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -613,20 +709,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -638,20 +738,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -670,20 +774,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -695,20 +803,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -720,20 +832,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -745,20 +861,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -770,20 +890,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -795,20 +919,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -820,20 +948,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -845,20 +977,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -870,20 +1006,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -895,20 +1035,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -920,20 +1064,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -945,20 +1093,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -970,20 +1122,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -995,20 +1151,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1020,20 +1180,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1045,20 +1209,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1070,20 +1238,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1095,20 +1267,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1120,20 +1296,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1145,20 +1325,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1170,20 +1354,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1195,20 +1383,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1220,20 +1412,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1245,20 +1441,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1270,20 +1470,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1295,20 +1499,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1320,20 +1528,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1345,20 +1557,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1370,20 +1586,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1395,20 +1615,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1420,20 +1644,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1445,20 +1673,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1470,20 +1702,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1495,20 +1731,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1520,20 +1760,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1545,20 +1789,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1570,20 +1818,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1595,20 +1847,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1620,20 +1876,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1644,20 +1904,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1669,20 +1933,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1694,20 +1962,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1719,20 +1991,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1744,20 +2020,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1769,20 +2049,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1794,20 +2078,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1819,20 +2107,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1844,20 +2136,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1869,20 +2165,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1894,20 +2194,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1919,20 +2223,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1944,20 +2252,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1969,20 +2281,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -1994,20 +2310,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2019,20 +2339,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2044,20 +2368,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2069,20 +2397,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2094,20 +2426,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2119,20 +2455,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2144,20 +2484,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2169,20 +2513,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2194,20 +2542,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2219,20 +2571,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2244,20 +2600,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2269,20 +2629,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2294,20 +2658,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2319,20 +2687,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2344,20 +2716,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2369,20 +2745,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2394,20 +2774,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2419,20 +2803,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2444,20 +2832,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2469,20 +2861,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2494,20 +2890,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2519,20 +2919,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2544,20 +2948,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2569,20 +2977,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2594,20 +3006,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2619,20 +3035,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2644,20 +3064,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2669,20 +3093,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2694,20 +3122,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2719,20 +3151,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2744,20 +3180,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2769,20 +3209,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2794,20 +3238,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2819,20 +3267,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2844,20 +3296,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2868,20 +3324,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2893,20 +3353,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2918,20 +3382,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2943,20 +3411,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2968,20 +3440,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -2993,20 +3469,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3018,20 +3498,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3043,20 +3527,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3068,20 +3556,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3093,20 +3585,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3118,20 +3614,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3143,20 +3643,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3168,20 +3672,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3193,20 +3701,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3218,20 +3730,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3243,20 +3759,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3268,20 +3788,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3293,20 +3817,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3318,20 +3846,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3343,20 +3875,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3368,20 +3904,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3392,20 +3932,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3417,20 +3961,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3441,20 +3989,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3466,20 +4018,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3491,20 +4047,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3516,20 +4076,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3541,20 +4105,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3566,20 +4134,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3591,20 +4163,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3616,20 +4192,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3641,20 +4221,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3666,20 +4250,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3691,20 +4279,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3716,20 +4308,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3741,20 +4337,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3766,20 +4366,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3791,20 +4395,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3816,20 +4424,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3841,20 +4453,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3866,20 +4482,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3891,20 +4511,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3916,20 +4540,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3941,20 +4569,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3966,20 +4598,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -3991,20 +4627,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4016,20 +4656,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4041,20 +4685,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4066,20 +4714,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4091,20 +4743,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4116,20 +4772,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4141,20 +4801,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4166,20 +4830,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4191,20 +4859,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4216,20 +4888,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   },
@@ -4241,20 +4917,24 @@ export const products = [
     description: '.',
     img: [
       {
-        filename: 'gold_cuban_link_1.png',
-        title: 'img1'
+        src: 'gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_2.png',
-        title: 'img2'
+        src: 'gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_3.png',
-        title: 'img3'
+        src: 'gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
       },
       {
-        filename: 'gold_cuban_link_4.png',
-        title: 'img4'
+        src: 'gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
       }
     ]
   }
