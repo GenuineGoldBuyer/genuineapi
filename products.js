@@ -7,19 +7,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -33,19 +33,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -59,19 +59,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -85,19 +85,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -110,19 +110,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -135,19 +135,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -160,19 +160,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -185,19 +185,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -210,19 +210,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -235,19 +235,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -260,19 +260,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -285,19 +285,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -310,19 +310,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -335,19 +335,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -360,19 +360,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -390,19 +390,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -415,19 +415,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -440,19 +440,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -465,19 +465,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -490,19 +490,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -515,19 +515,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -540,19 +540,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -565,19 +565,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -590,19 +590,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -615,19 +615,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -640,19 +640,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -671,19 +671,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -696,19 +696,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -721,19 +721,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -746,19 +746,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -771,19 +771,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -796,19 +796,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -821,19 +821,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -846,19 +846,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -871,19 +871,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -896,19 +896,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -921,19 +921,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -946,19 +946,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -971,19 +971,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -996,19 +996,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1021,19 +1021,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1046,19 +1046,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1071,19 +1071,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1096,19 +1096,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1121,19 +1121,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1146,19 +1146,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1171,19 +1171,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1196,19 +1196,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1221,19 +1221,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1246,19 +1246,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1271,19 +1271,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1296,19 +1296,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1321,19 +1321,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1346,19 +1346,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1371,19 +1371,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1396,19 +1396,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1421,19 +1421,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1446,19 +1446,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1471,19 +1471,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1496,19 +1496,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1521,19 +1521,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1546,19 +1546,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1571,19 +1571,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1596,19 +1596,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1621,19 +1621,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1645,19 +1645,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1670,19 +1670,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1695,19 +1695,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1720,19 +1720,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1745,19 +1745,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1770,19 +1770,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1795,19 +1795,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1820,19 +1820,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1845,19 +1845,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1870,19 +1870,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1895,19 +1895,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1920,19 +1920,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1945,19 +1945,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1970,19 +1970,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -1995,19 +1995,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2020,19 +2020,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2045,19 +2045,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2070,19 +2070,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2095,19 +2095,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2120,19 +2120,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2145,19 +2145,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2170,19 +2170,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2195,19 +2195,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2220,19 +2220,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2245,19 +2245,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2270,19 +2270,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2295,19 +2295,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2320,19 +2320,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2345,19 +2345,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2370,19 +2370,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2395,19 +2395,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2420,19 +2420,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2445,19 +2445,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2470,19 +2470,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2495,19 +2495,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2520,19 +2520,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2545,19 +2545,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2570,19 +2570,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2595,19 +2595,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2620,19 +2620,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2645,19 +2645,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2670,19 +2670,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2695,19 +2695,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2720,19 +2720,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2745,19 +2745,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2770,19 +2770,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2795,19 +2795,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2820,19 +2820,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2845,19 +2845,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2869,19 +2869,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2894,19 +2894,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2919,19 +2919,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2944,19 +2944,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2969,19 +2969,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -2994,19 +2994,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3019,19 +3019,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3044,19 +3044,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3069,19 +3069,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3094,19 +3094,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3119,19 +3119,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3144,19 +3144,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3169,19 +3169,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3194,19 +3194,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3219,19 +3219,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3244,19 +3244,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3269,19 +3269,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3294,19 +3294,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3319,19 +3319,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3344,19 +3344,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3369,19 +3369,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3393,19 +3393,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3418,19 +3418,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3442,19 +3442,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3467,19 +3467,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3492,19 +3492,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3517,19 +3517,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3542,19 +3542,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3567,19 +3567,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3592,19 +3592,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3617,19 +3617,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3642,19 +3642,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3667,19 +3667,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3692,19 +3692,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3717,19 +3717,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3742,19 +3742,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3767,19 +3767,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3792,19 +3792,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3817,19 +3817,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3842,19 +3842,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3867,19 +3867,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3892,19 +3892,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3917,19 +3917,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3942,19 +3942,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3967,19 +3967,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -3992,19 +3992,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4017,19 +4017,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4042,19 +4042,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4067,19 +4067,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4092,19 +4092,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4117,19 +4117,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4142,19 +4142,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4167,19 +4167,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4192,19 +4192,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4217,19 +4217,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
@@ -4242,19 +4242,19 @@ export const products = [
     description: '.',
     img: [
       {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
+        src: 'gold_cuban_link_1.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
+        src: 'gold_cuban_link_2.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
+        src: 'gold_cuban_link_3.png',
         width: '800',
         height: '700'
       }, {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
+        src: 'gold_cuban_link_4.png',
         width: '800',
         height: '700'
       }
