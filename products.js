@@ -3036,6 +3036,32 @@ export const products = [
         height: '700'
       }
     ]
+  },
+  {
+    id: 1231,
+    items: 'Layered',
+    category: 'Earring',
+    im: 'Earring.png',
+    description: '.',
+    img: [
+      {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
+      }, {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
+      }, {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
+      }, {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
+      }
+    ]
   }, {
     id: 124,
     items: '18k Gold',
