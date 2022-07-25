@@ -1246,7 +1246,7 @@ export const products = [
   },
   {
     id: 44,
-    items: 'Gold Boho Bracelet',
+    items: 'Gold Boho',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
     im: 'Bracelet.png',
