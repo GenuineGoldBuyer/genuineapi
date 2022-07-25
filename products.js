@@ -1306,7 +1306,7 @@ export const products = [
   },
   {
     id: 46,
-    items: 'Gold and Shungite',
+    items: 'Russian Gold Shungite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
     im: 'Bracelet.png',
