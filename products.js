@@ -1365,6 +1365,36 @@ export const products = [
     ]
   },
   {
+    id: 471,
+    items: 'Gold and Peridot',
+    category: 'Bracelet',
+    category_im: 'Bracelet.png',
+    im: 'Bracelet.png',
+    description: '.',
+    img: [
+      {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_1.png',
+        width: '800',
+        height: '700'
+      },
+      {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_2.png',
+        width: '800',
+        height: '700'
+      },
+      {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_3.png',
+        width: '800',
+        height: '700'
+      },
+      {
+        src: '../../../img/GoldCubanLink/gold_cuban_link_4.png',
+        width: '800',
+        height: '700'
+      }
+    ]
+  },
+  {
     id: 48,
     items: 'Gold Cord',
     category: 'Bracelet',
