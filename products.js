@@ -2566,7 +2566,7 @@ export const products = [
     id: 87,
     items: 'Kundan Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2595,7 +2595,7 @@ export const products = [
     id: 88,
     items: 'Beaded Gold',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2624,7 +2624,7 @@ export const products = [
     id: 89,
     items: '22k Gold',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2653,7 +2653,7 @@ export const products = [
     id: 90,
     items: '24k Gold',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2682,7 +2682,7 @@ export const products = [
     id: 91,
     items: 'Gold Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2711,7 +2711,7 @@ export const products = [
     id: 92,
     items: 'Gold with Red stone',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2740,7 +2740,7 @@ export const products = [
     id: 93,
     items: 'Silver Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2769,7 +2769,7 @@ export const products = [
     id: 94,
     items: 'Rose Gold Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2798,7 +2798,7 @@ export const products = [
     id: 95,
     items: 'Rajwadi Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2827,7 +2827,7 @@ export const products = [
     id: 96,
     items: 'Chakradhari Brass Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2856,7 +2856,7 @@ export const products = [
     id: 97,
     items: 'Ghungroo Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2885,7 +2885,7 @@ export const products = [
     id: 98,
     items: '2 Tola Gold Kada',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2914,7 +2914,7 @@ export const products = [
     id: 99,
     items: 'Gold Polki',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
@@ -2943,7 +2943,7 @@ export const products = [
     id: 100,
     items: '18k Gold',
     category: 'Bangles',
-    im: 'Bangle.png',
+    category_im: 'Bangle.png',
     description: '.',
     img: [
       {
