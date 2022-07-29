@@ -4225,36 +4225,6 @@ export const products = [
     ]
   },
   {
-    id: 142,
-    items: 'Women Tentacion Gold',
-    category: 'Necklace',
-    category_im: 'Necklace.png',
-    im: 'Necklace.png',
-    description: '.',
-    img: [
-      {
-        src: '/img/GoldCubanLink/gold_cuban_link_1.png',
-        width: '800',
-        height: '700'
-      },
-      {
-        src: '/img/GoldCubanLink/gold_cuban_link_2.png',
-        width: '800',
-        height: '700'
-      },
-      {
-        src: '/img/GoldCubanLink/gold_cuban_link_3.png',
-        width: '800',
-        height: '700'
-      },
-      {
-        src: '/img/GoldCubanLink/gold_cuban_link_4.png',
-        width: '800',
-        height: '700'
-      }
-    ]
-  },
-  {
     id: 143,
     items: 'Pearl Choker',
     category: 'Necklace',
