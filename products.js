@@ -4,7 +4,7 @@ export const products = [
     items: 'Gold Cuban Link',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/GoldCubanLink.png',
+    im: 'GoldCubanLink.png',
     description: '.',
     img: [
       {
@@ -34,7 +34,7 @@ export const products = [
     items: 'Diamond',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'Diamond.png',
     description: '.',
     img: [
       {
@@ -64,7 +64,7 @@ export const products = [
     items: 'Gold Couples',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldCouples.png',
     description: '.',
     img: [
       {
@@ -94,7 +94,7 @@ export const products = [
     items: 'Gold Tennis',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldTennis.png',
     description: '.',
     img: [
       {
@@ -124,7 +124,7 @@ export const products = [
     items: 'Gold Diamond Tennis',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldDiamond.png',
     description: '.',
     img: [
       {
@@ -154,7 +154,7 @@ export const products = [
     items: 'Rose Gold',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'RoseGold.png',
     description: '.',
     img: [
       {
@@ -184,7 +184,7 @@ export const products = [
     items: 'Infinity',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'Infinity.png',
     description: '.',
     img: [
       {
@@ -214,7 +214,7 @@ export const products = [
     items: 'Gold Rose Quartz',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldRoseQuartz.png',
     description: '.',
     img: [
       {
@@ -244,7 +244,7 @@ export const products = [
     items: 'White Gold',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'WhiteGold.png',
     description: '.',
     img: [
       {
@@ -274,7 +274,7 @@ export const products = [
     items: 'Gold Cuff',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldCuff.png',
     description: '.',
     img: [
       {
@@ -304,7 +304,7 @@ export const products = [
     items: 'Gold and Amethyst',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandAmethyst.png',
     description: '.',
     img: [
       {
@@ -334,7 +334,7 @@ export const products = [
     items: 'Gold Butterfly',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldButterfly.png',
     description: '.',
     img: [
       {
@@ -364,7 +364,7 @@ export const products = [
     items: 'Gold and Versace',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandVersace.png',
     description: '.',
     img: [
       {
@@ -394,7 +394,7 @@ export const products = [
     items: 'Gold Ring (Mehendi)',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldRing_Mehendi.png',
     description: '.',
     img: [
       {
@@ -424,7 +424,7 @@ export const products = [
     items: 'Gold and Carnelian ',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandCarnelian.png',
     description: '.',
     img: [
       {
@@ -454,6 +454,7 @@ export const products = [
     items: 'Gold Heart',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
+    im:'GoldHeart.png',
     description: '.'
   },
   {
@@ -461,7 +462,7 @@ export const products = [
     items: 'Gold and Emerald',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandEmerald.png',
     description: '.',
     img: [
       {
@@ -491,7 +492,7 @@ export const products = [
     items: 'Clover',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'Clover.png',
     description: '.',
     img: [
       {
@@ -521,7 +522,7 @@ export const products = [
     items: 'Gold and Ruby',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandRuby.png',
     description: '.',
     img: [
       {
@@ -551,7 +552,7 @@ export const products = [
     items: 'Gold and Sapphire',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandSapphire.png',
     description: '.',
     img: [
       {
@@ -581,7 +582,7 @@ export const products = [
     items: 'Gold and Tourmaline',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandTourmaline.png',
     description: '.',
     img: [
       {
@@ -611,7 +612,7 @@ export const products = [
     items: 'Gold Opal Tennis',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldOpalTennis.png',
     description: '.',
     img: [
       {
@@ -641,7 +642,7 @@ export const products = [
     items: 'Gold Hematite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldHematite.png',
     description: '.',
     img: [
       {
@@ -671,7 +672,7 @@ export const products = [
     items: 'Gold and Turquoise',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandTurquoise.png',
     description: '.',
     img: [
       {
@@ -701,7 +702,7 @@ export const products = [
     items: 'Gold and Citrine',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandCitrine.png',
     description: '.',
     img: [
       {
@@ -731,7 +732,7 @@ export const products = [
     items: 'Moonstone Gold',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'MoonstoneGold.png',
     description: '.',
     img: [
       {
@@ -761,7 +762,7 @@ export const products = [
     items: 'Gold Flower',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldFlower.png',
     description: '.',
     img: [
       {
@@ -791,7 +792,7 @@ export const products = [
     items: 'Gold Braided',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldBraided.png',
     description: ''
   },
   {
@@ -799,7 +800,7 @@ export const products = [
     items: 'Gold Arm Cuff',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldArmCuff.png',
     description: '.',
     img: [
       {
@@ -829,7 +830,7 @@ export const products = [
     items: 'Gold and Aquamarine',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandAquamarine.png',
     description: '.',
     img: [
       {
@@ -859,7 +860,7 @@ export const products = [
     items: 'Ottoman Slave',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'OttomanSlave.png',
     description: '.',
     img: [
       {
@@ -889,7 +890,7 @@ export const products = [
     items: 'Gold Anchor',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldAnchor.png',
     description: '.',
     img: [
       {
@@ -919,7 +920,7 @@ export const products = [
     items: 'Gold Link',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldLink.png',
     description: '.',
     img: [
       {
@@ -949,7 +950,7 @@ export const products = [
     items: 'Gold Bolo',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldBolo.png',
     description: '.',
     img: [
       {
@@ -979,7 +980,7 @@ export const products = [
     items: 'Gold and Gemstone',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandGemstone.png',
     description: '.',
     img: [
       {
@@ -1009,7 +1010,7 @@ export const products = [
     items: 'Gold Sunflower',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldSunflower.png',
     description: '.',
     img: [
       {
@@ -1036,10 +1037,10 @@ export const products = [
   },
   {
     id: 37,
-    items: 'Malachite Clover',
+    items: 'Gold Malachite Clover',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldMalachiteClover.png',
     description: '.',
     img: [
       {
@@ -1066,10 +1067,10 @@ export const products = [
   },
   {
     id: 38,
-    items: 'Malachite',
+    items: 'Gold Malachite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldMalachite.png',
     description: '.',
     img: [
       {
@@ -1099,7 +1100,7 @@ export const products = [
     items: 'Gold Garnet',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldGarnet.png',
     description: '.',
     img: [
       {
@@ -1129,7 +1130,7 @@ export const products = [
     items: 'Gold Harry Potter',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldHarryPotter.png',
     description: '.',
     img: [
       {
@@ -1159,7 +1160,7 @@ export const products = [
     items: 'Gold Lapis Lazuli',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldLapisLazuli.png',
     description: '.',
     img: [
       {
@@ -1189,7 +1190,7 @@ export const products = [
     items: 'Gold and Diamond',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandDiamond.png',
     description: '.',
     img: [
       {
@@ -1219,7 +1220,7 @@ export const products = [
     items: 'Gold Amazonite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldAmazonite.png',
     description: '.',
     img: [
       {
@@ -1249,7 +1250,7 @@ export const products = [
     items: 'Gold Boho',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldBoho.png',
     description: '.',
     img: [
       {
@@ -1279,7 +1280,7 @@ export const products = [
     items: 'Gold and Black Beads',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandBlackBeads.png',
     description: '.',
     img: [
       {
@@ -1309,7 +1310,7 @@ export const products = [
     items: 'Russian Gold Shungite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'RussianGoldShungite.png',
     description: '.',
     img: [
       {
@@ -1339,7 +1340,7 @@ export const products = [
     items: 'Gold and Onyx',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandOnyx.png',
     description: '.',
     img: [
       {
@@ -1369,7 +1370,7 @@ export const products = [
     items: 'Gold and Peridot',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandPeridot.png',
     description: '.',
     img: [
       {
@@ -1399,7 +1400,7 @@ export const products = [
     items: 'Gold Cord',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldCord.png',
     description: '.',
     img: [
       {
@@ -1429,7 +1430,7 @@ export const products = [
     items: 'Gold Stackable',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldStackable.png',
     description: '.',
     img: [
       {
@@ -1459,7 +1460,7 @@ export const products = [
     items: 'Plain Gold',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'PlainGold.png',
     description: '.',
     img: [
       {
@@ -1489,7 +1490,7 @@ export const products = [
     items: 'Gold Pyrite',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldPyrite.png',
     description: '.',
     img: [
       {
@@ -1519,7 +1520,7 @@ export const products = [
     items: 'Gold and Topaz',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldandTopaz.png',
     description: '.',
     img: [
       {
@@ -1549,7 +1550,7 @@ export const products = [
     items: 'Gold Red Jasper',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldRedJasper.png',
     description: '.',
     img: [
       {
@@ -1579,7 +1580,7 @@ export const products = [
     items: 'Gold Vikings',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldVikings.png',
     description: '.',
     img: [
       {
@@ -4979,7 +4980,7 @@ export const products = [
     items: 'Gold Anklet',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'GoldAnklet.png',
     description: '.',
     img: [
       {
@@ -5009,7 +5010,7 @@ export const products = [
     items: 'Silver Anklet',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'SilverAnklet.png',
     description: '.',
     img: [
       {
@@ -5039,7 +5040,7 @@ export const products = [
     items: 'White Gold Tennis',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'WhiteGoldTennis.png',
     description: '.',
     img: [
       {
@@ -5069,7 +5070,7 @@ export const products = [
     items: 'Rose Gold Tennis',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'RoseGoldTennis.png',
     description: '.',
     img: [
       {
@@ -5099,7 +5100,7 @@ export const products = [
     items: 'Rose Gold Infinity',
     category: 'Bracelet',
     category_im: 'Bracelet.png',
-    im: '/img/Bracelet/',
+    im: 'RoseGoldInfinity.png',
     description: '.',
     img: [
       {
