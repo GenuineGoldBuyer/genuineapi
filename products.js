@@ -3634,7 +3634,7 @@ export const products = [
     items: '24k Gold',
     category: 'Earring',
     category_im: 'Earring.png',
-    im: 'Earring.png',
+    im: '24kGold.png',
     description: '.',
     img: [
       {
