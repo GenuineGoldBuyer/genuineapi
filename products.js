@@ -4023,7 +4023,7 @@ export const products = [
     items: 'Kundan Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'KundanGold.png',
     description: '.',
     img: [
       {
@@ -4053,7 +4053,7 @@ export const products = [
     items: 'Collar Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'CollarGold.png',
     description: '.',
     img: [
       {
@@ -4083,7 +4083,7 @@ export const products = [
     items: 'Polki Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'PolkiGold.png',
     description: '.',
     img: [
       {
@@ -4141,7 +4141,7 @@ export const products = [
     items: 'Kemp Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'KempGold.png',
     description: '.',
     img: [
       {
@@ -4199,7 +4199,7 @@ export const products = [
     items: 'Choker Set',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'ChokerSet.png',
     description: '.',
     img: [
       {
@@ -4229,7 +4229,7 @@ export const products = [
     items: 'Pearl Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'PearlChoker.png',
     description: '.',
     img: [
       {
@@ -4259,7 +4259,7 @@ export const products = [
     items: 'Diamond Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'DiamondChoker.png',
     description: '.',
     img: [
       {
@@ -4289,7 +4289,7 @@ export const products = [
     items: 'Black Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'BlackChoker.png',
     description: '.',
     img: [
       {
@@ -4319,7 +4319,7 @@ export const products = [
     items: 'Layered',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'Layered.png',
     description: '.',
     img: [
       {
@@ -4349,7 +4349,7 @@ export const products = [
     items: 'Multi Layered Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'MultiLayered.png',
     description: '.',
     img: [
       {
@@ -4379,7 +4379,7 @@ export const products = [
     items: 'Rose Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'RoseGold.png',
     description: '.',
     img: [
       {
@@ -4409,7 +4409,7 @@ export const products = [
     items: 'White Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'WhiteGold.png',
     description: '.',
     img: [
       {
@@ -4439,7 +4439,7 @@ export const products = [
     items: 'Gold Polki Sets',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'GoldPolkiSets.png',
     description: '.',
     img: [
       {
@@ -4469,7 +4469,7 @@ export const products = [
     items: 'Gold Emerald',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'GoldEmerald.png',
     description: '.',
     img: [
       {
@@ -4499,7 +4499,7 @@ export const products = [
     items: 'Bridal Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'BridalChoker.png',
     description: '.',
     img: [
       {
@@ -4529,7 +4529,7 @@ export const products = [
     items: 'Traditional Pearl',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'TraditionalPearl.png',
     description: '.',
     img: [
       {
@@ -4559,7 +4559,7 @@ export const products = [
     items: 'Gemstone, Uncut diamond, Emerald, Rubies, Pearls Jadau Set',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'GemstoneUncutDiamondEmeraldRubiesPearlsJadauSets.png',
     description: '.',
     img: [
       {
@@ -4589,7 +4589,7 @@ export const products = [
     items: 'Gold Moti Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'GoldMotiChoker.png',
     description: '.',
     img: [
       {
@@ -4619,7 +4619,7 @@ export const products = [
     items: 'Rajasthani Gold Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'RajasthaniGoldChoker.png',
     description: '.',
     img: [
       {
@@ -4649,7 +4649,7 @@ export const products = [
     items: 'Triple Layered Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'TripleLayeredGold.png',
     description: '.',
     img: [
       {
@@ -4679,7 +4679,7 @@ export const products = [
     items: 'Small Pearl Choker Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'SmallPearlChoker.png',
     description: '.',
     img: [
       {
@@ -4709,7 +4709,7 @@ export const products = [
     items: 'Simple Gold Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'SimpleGoldChoker.png',
     description: '.',
     img: [
       {
@@ -4736,10 +4736,10 @@ export const products = [
   },
   {
     id: 160,
-    items: 'Bohemian Gold',
+    items: 'Gold Bohemian Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'BohemianChoker.png',
     description: '.',
     img: [
       {
@@ -4769,7 +4769,7 @@ export const products = [
     items: 'Rope Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'RopeChoker.png',
     description: '.',
     img: [
       {
@@ -4799,7 +4799,7 @@ export const products = [
     items: 'White Gold Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'WhiteGoldChoker.png',
     description: '.',
     img: [
       {
@@ -4829,7 +4829,7 @@ export const products = [
     items: 'Butterfly Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'ButterflyGold.png',
     description: '.',
     img: [
       {
@@ -4859,7 +4859,7 @@ export const products = [
     items: 'Ghungroo Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'GhungrooGold.png',
     description: '.',
     img: [
       {
@@ -4889,7 +4889,7 @@ export const products = [
     items: 'Uncut Diamond Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'UncutDiamondGold.png',
     description: '.',
     img: [
       {
@@ -4919,7 +4919,7 @@ export const products = [
     items: 'Floral Gold Choker',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'FloralGoldChoker.png',
     description: '.',
     img: [
       {
@@ -4949,7 +4949,7 @@ export const products = [
     items: 'Monogram Gold',
     category: 'Necklace',
     category_im: 'Necklace.png',
-    im: 'Necklace.png',
+    im: 'MonogramGold.png',
     description: '.',
     img: [
       {
