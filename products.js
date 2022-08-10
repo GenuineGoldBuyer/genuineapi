@@ -1998,7 +1998,7 @@ export const products = [
   {
     id: 68,
     items: 'Gold Ruby Engagement or Wedding',
-    category: '',
+    category: 'Ring',
     description: '.',
     img: [
       {
@@ -4112,7 +4112,7 @@ export const products = [
   {
     id: 138,
     items: 'Choker Gold',
-    category: '',
+    category: 'Necklace',
     description: '.',
     img: [
       {
@@ -4170,7 +4170,7 @@ export const products = [
   {
     id: 140,
     items: 'Lariat',
-    category: '',
+    category: 'Necklace',
     description: '.',
     img: [
       {
